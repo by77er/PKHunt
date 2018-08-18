@@ -1,0 +1,5 @@
+bs4
+asyncio
+async_timeout
+discord
+aiohttp
