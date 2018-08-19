@@ -3,3 +3,4 @@ asyncio
 async_timeout
 discord
 aiohttp
+ujson

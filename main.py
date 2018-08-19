@@ -7,7 +7,7 @@ import async_timeout
 import aiohttp
 from bs4 import BeautifulSoup
 import hashlib
-import json
+import ujson as json
 import os
 import urllib.request as urllib2
 
