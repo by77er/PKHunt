@@ -13,6 +13,8 @@ Install the required modules: `pip3 install -r requirements.txt`
 
 Fill the `bot_token` variable in `main.py`
 
+Add the bot to your server
+
 You should be ready to roll! Send `h!help` for command details.
 
 ### Permissions
